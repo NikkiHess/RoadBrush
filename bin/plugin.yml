@@ -1,0 +1,11 @@
+name: RoadBrush
+version: 1.0
+description: Paint roads onto your world!
+authors: [CoinSlotGaming, DarkHunter_IV]
+depend:
+api-version: 1.16
+main: com.jn.roadbrush.Main
+commands:
+ roadbrush:
+  description: Paint a dynamic road with the tool in your hand!
+  aliases: [rb]
